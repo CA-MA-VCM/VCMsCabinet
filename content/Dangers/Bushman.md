@@ -1,5 +1,5 @@
 ![[BushmanBasketballSighting.png|500]]
-<center><i>Bushman stalking in the top left.</i></center>
+*Bushman stalking in the top left.*
 
 Bushman is a man seemingly protecting, or even "serving" the forest. He is known to attack anyone who harms it or the animals that reside within. Appears to be allied with [[Branchwalkers]], who fight alongside him.
 
