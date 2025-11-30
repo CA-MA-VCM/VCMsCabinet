@@ -3,7 +3,7 @@ aliases:
   - Woodsman, Hollow Man.
 ---
 ![[Amberman.png|500]]
-*A rare instance of the Amberman showing mercy to a lowly guest. I couldn't find an IC picture okay.*
+*The Amberman's appearance.*
 
 The Amberman, also known as "Woodsman" or "Hollow Man", is a large tree-like creature standing at about eighteen feet tall. It is actively hostile and ==extremely== dangerous, as it actively hunts campers for food.
 
@@ -29,4 +29,3 @@ Its appearances are often accompanied by fog. If you're out somewhere and fog ro
 
 > [!danger] WARNING
 > A lack of fog does *not* mean it has left. Do not let this lure you into a false sense of safety.
-> Likewise, fog does not *always* mean it will appear.
