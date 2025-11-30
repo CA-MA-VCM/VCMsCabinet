@@ -1,6 +1,7 @@
 ---
 aliases:
   - Branchwalker
+title: Branchwalkers
 ---
 ![[hlodyn1.png|500]]
 *A branchwalker of oak make, dubbed [['Hlodyn']].*
