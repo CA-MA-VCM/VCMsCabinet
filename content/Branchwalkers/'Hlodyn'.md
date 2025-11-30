@@ -1,10 +1,8 @@
 ---
 aliases:
   - Oakwalker
-tags:
-  - Branchwalker
 ---
 
-![[hlodyn.png|500]]
+![[hlodyn1.png|500]]
 *Note its horns.*
 
