@@ -8,8 +8,14 @@ Bushman is a man seemingly protecting, or even "serving" the forest. He is known
 
 # Behavior
 
-Bushman has possibly the easiest behavior to track and predict. Any kind of transgression against the forest will result in some  of response from him, to an "equal" level. For example, if you stomp a bunny, he'll take your foot. If you kill a bunny, he'll hunt you down proper.
-Other transgressions such as damaging the surrounding fauna, or simply being in a group too far into the forest have also been known to anger him. Other things include going to certain places, such as the [[Stonehenges]], or trying to capture him in a photo.
+Bushman has possibly the easiest behavior to track and predict. Any kind of transgression against the forest will result in some type of response from him, to an "equal" level. For example, if you stomp a bunny, he'll take your foot. If you kill a bunny, he'll hunt you down proper.
+
+Other transgressions include:
+- Damaging surrounding flora, or any part of the forest.
+- Trespassing too far into the forest, especially in large groups.
+- Visiting the [[Stonehenges]].
+- Attempting to photograph him.
+- ==ANY== form of investigation. You saw the warning above.
 
 # Physique
 
