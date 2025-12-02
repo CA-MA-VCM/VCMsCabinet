@@ -32,3 +32,9 @@ Despite his size and stature, he's been seen doing incredible feats of human str
 ## Teleportation(?)
 
 He's often seen appearing out of, and disappearing into, bushes. This is theorized to be a form of teleportation, but he's never truly been seen teleporting directly; the bushes always obscure him.
+
+# Counters
+
+- If he tells you to leave, or stop what you're doing, listen. The primary 'counter' is to not aggravate him.
+- Do ==not== fight him. You will lose. If he's aggressive, your best bet is running and slowing him down wherever you can. Throw marbles to the floor, put obstacles in his path.
+- Do not harm the forest, or its animals. He largely keeps to himself.
