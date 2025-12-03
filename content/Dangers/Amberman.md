@@ -48,4 +48,5 @@ Once, and only once, has it been observed shaping its hand into a sharp spear at
 - Stay inside, and away from the windows. A closet works best.
 - If outside, hide. Outrunning it is a major gamble.
 - If you can't hide, throw candy. It might go for it instead of you.
+- Dive into water. It's unknown whether or not it can't enter water, or if it simply believes other campers outside of water are easier to hunt.
 - If none of the above work or are available, dodge as best you can and use the size difference to your advantage. Anything where it'd have a harder time navigating is good.

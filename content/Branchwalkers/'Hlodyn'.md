@@ -1,6 +1,8 @@
 ---
 aliases:
   - Oakwalker
+tags:
+  - Alignment/Forest
 ---
 
 ![[hlodyn1.png|500]]

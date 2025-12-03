@@ -1,6 +1,8 @@
 ---
 aliases:
   - Birchwalker
+tags:
+  - Alignment/Forest
 ---
 # Odin
 
