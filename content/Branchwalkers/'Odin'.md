@@ -4,12 +4,10 @@ aliases:
 tags:
   - Alignment/Forest
 ---
-# Odin
-
-![[odin2.png]]
-
 > [!info] This article is a stub
 > You can help by expanding it. If you'd like to, see the front page for instructions.
+
+*Photo to be added.*
 
 Odin, or the "Birchwalker", is one of the main, most well known [[Branchwalkers/index|Branchwalker]] that both the A.R.C. and camp has seen. Knowledge of this one seems to extend across all faces, with most knowing of it's existence. It's been primarily recognized for its "assistance" with helping Campers flee from danger. However, this assistance mainly comes in the form of scaring Campers into running away before whatever danger might find them. 
 

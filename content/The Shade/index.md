@@ -1,3 +1,9 @@
+---
+title: The Shade
+aliases:
+  - The Shade
+---
+
 
 **The Shade** is the thin veil that rests between life and death. Those who are able to access this thin line have the ability to interact with both life and death. 
 

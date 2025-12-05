@@ -1,3 +1,9 @@
+---
+title: Spirits
+aliases:
+  - Spirits, Spirit
+---
+
 
 **Spirits**, or also called Ghosts, are entities cast away from their original bodies upon death. Many reside in the surrounding Crystal Valley, unable to move onto the next life. 
 
@@ -9,4 +15,4 @@ On some rare occasions, Spirits take the form of something else *entirely*. In s
 
 Rarely, Spirits have been seen to wield supernatural abilities, such as **telekinesis**. However, this ability is rare and has only been seen through a few scant occasions.  
 
-Spirits, and those related to the Spiritual-plane, oftentimes have a definitive blue glow surrounding them. This also carries over to those such as [[Mediums]] who possess supernatural abilities **and** [[The Shade|Shades]], such as [[Blueshrooms]].
+Spirits, and those related to the Spiritual-plane, oftentimes have a definitive blue glow surrounding them. This also carries over to those such as [[Mediums]] who possess supernatural abilities **and** [[The Shade/index|Shades]], such as [[Blueshrooms]].

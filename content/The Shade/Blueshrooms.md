@@ -1,5 +1,5 @@
 
-**Blueshrooms** are a form of [[The Shade|Shades]], often characterised by their Mushroom-like shape and luminescent blue glow. They are, as of now, the only way for non-mediums to access the shade.
+**Blueshrooms** are a form of [[The Shade/index|Shades]], often characterised by their Mushroom-like shape and luminescent blue glow. They are, as of now, the only way for non-mediums to access the shade.
 
 When consumed, Blueshrooms temporarily allow one to access the Shade, offering them the ability to both see and interact with the incorporeal world. Effects tend to last for upwards of an hour and are dependant on how much is consumed. 
 

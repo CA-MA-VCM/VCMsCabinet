@@ -1,5 +1,5 @@
 
-**Medium** is the classification for a rare group of people who have permanent access to [[The Shade]]. 
+**Medium** is the classification for a rare group of people who have permanent access to [[The Shade/index|The Shade]]. 
 
 Those in this state appear to have full ability to converse and interact with the incorporeal realm and, in rare circumstances, wield it. 
 
