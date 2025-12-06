@@ -1,7 +1,10 @@
 ---
 title: Spirits
 aliases:
-  - Spirits, Spirit
+  - Spirits
+  - Spirit
+  - Ghosts
+  - Ghost
 ---
 
 
