@@ -1,6 +1,7 @@
 ---
 aliases:
-  - Woodsman, Hollow Man.
+  - Woodsman
+  - Hollow Man
 ---
 *Photo to be added.*
 
@@ -15,7 +16,7 @@ It often announces itself with a loud, helicopter-like roar. After which it begi
 - Slamming two people against each other
 - Improvised weapons (such as lantern posts)
 
-It is also incredibly attracted to candy, often even prioritizing it *above* people. This also means sweet smells can lure it out, so beware.
+It is also seems to absolutely love candy, often even prioritizing it *above* people. This means sweet smells can lure it out, so beware.
 
 It ==hates== flashing lights. Under no circumstance should you use flash photography.
 
@@ -47,5 +48,6 @@ Once, and only once, has it been observed shaping its hand into a sharp spear at
 - Stay inside, and away from the windows. A closet works best.
 - If outside, hide. Outrunning it is a major gamble.
 - If you can't hide, throw candy. It might go for it instead of you.
-- Dive into water. It's unknown whether or not it can't enter water, or if it simply believes other campers outside of water are easier to hunt.
+- Run for the [[Birchwoods]]. It is theorized to be somewhat of a safe place from the Amberman, as it seems to refuse to step foot inside of it.
+- Dive into deep water. It's unknown whether it can't enter water, or if it simply believes other campers outside of water are easier to hunt.
 - If none of the above work or are available, dodge as best you can and use the size difference to your advantage. Anything where it'd have a harder time navigating is good.
