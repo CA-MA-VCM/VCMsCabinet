@@ -3,12 +3,10 @@ title: Spirits
 aliases:
   - Spirits
   - Spirit
-  - Ghosts
-  - Ghost
 ---
 
 
-**Spirits**, or also called Ghosts, are entities cast away from their original bodies upon death. Many reside in the surrounding Crystal Valley, unable to move onto the next life. 
+**Spirits**, or also called Ghosts after their most common type, are entities cast away from their original bodies upon death. Many reside in the surrounding Crystal Valley, unable to move onto the next life. 
 
 Spirits, upon first being "born", are left to roam aimlessly around the valley to regain their senses and being. It is only after suitable time that they finally regain their previous personality, or at least fragments of it. It is only after going through several "stages" of acceptance can they finally move on from our realm. 
 

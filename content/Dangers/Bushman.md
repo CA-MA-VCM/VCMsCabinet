@@ -24,7 +24,7 @@ Other transgressions include:
 
 # Physique
 
-The Bushman seems to be a human standing at around 5'8, and has a more thin, lithe build. As far as clothing goes, he hasn't once been seen without his mask, or the ghillie suit he wears, but under that he wears a green vest over a grey sweatshirt, green cargo pants, and a pair of grey gloves. Any other features, such as his eyes, or face in general has yet to be seen. 
+The Bushman seems to be a human standing at around 5'5, and has a more thin, lithe build. As far as clothing goes, he hasn't once been seen without his mask, or the ghillie suit he wears, but under that he wears a green vest over a grey sweatshirt, green cargo pants, and a pair of grey gloves. Any other features, such as his eyes, or face in general has yet to be seen. 
 
 # Anomalies
 
