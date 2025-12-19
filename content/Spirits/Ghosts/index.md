@@ -3,6 +3,8 @@ aliases:
   - Ghosts
   - Ghost
 title: Ghosts
+authors:
+  - '"TERMITE"'
 ---
 Ghosts are the most common type of [[Spirits/index|Spirit]], recognisable by blue spores and a blue glow. Under most circumstances, they cannot interact with the material world, only occasionally through light and indirect ways such as messing with electronics or accelerating plant growth.
 

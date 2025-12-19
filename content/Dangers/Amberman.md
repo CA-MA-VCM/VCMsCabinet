@@ -2,6 +2,8 @@
 aliases:
   - Woodsman
   - Hollow Man
+authors:
+  - '"TERMITE"'
 ---
 *Photo to be added.*
 

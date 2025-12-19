@@ -1,3 +1,8 @@
+---
+authors:
+  - '"PARIAH"'
+---
+
 
 **Blueshrooms** are a form of [[The Shade/index|Shades]], often characterised by their Mushroom-like shape and luminescent blue glow. They are, as of now, the only way for non-mediums to access the shade.
 

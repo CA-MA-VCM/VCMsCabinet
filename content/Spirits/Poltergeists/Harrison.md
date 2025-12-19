@@ -1,6 +1,8 @@
 ---
 aliases:
   - Devil Dog
+authors:
+  - '"TERMITE"'
 ---
 *Sketch to be added.*
 

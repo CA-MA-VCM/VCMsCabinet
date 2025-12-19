@@ -2,6 +2,8 @@
 title: The Shade
 aliases:
   - The Shade
+authors:
+  - '"PARIAH"'
 ---
 
 

@@ -1,3 +1,7 @@
+---
+authors:
+  - '"PARIAH"'
+---
 
 **Medium** is the classification for a rare group of people who have permanent access to [[The Shade/index|The Shade]]. 
 

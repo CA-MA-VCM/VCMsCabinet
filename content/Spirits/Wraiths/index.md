@@ -3,6 +3,8 @@ aliases:
   - Wraiths
   - Wraith
 title: Wraiths
+authors:
+  - '"TERMITE"'
 ---
 Wraiths are the third type of [[Spirits/index|Spirit]], and are indicated by a red glow and red spores. They share every ability held by [[Spirits/Poltergeists/index|Poltergeists]], but are able to interact with the world far more directly, even in the absence of Shades such as [[Blueshrooms]] or spore nights. They are tethered to our world by hate and malice, and act purely out of these emotions.
 

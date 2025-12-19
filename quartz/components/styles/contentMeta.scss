@@ -2,8 +2,12 @@
   margin-top: 0;
   color: var(--darkgray);
 
+  &:not(:last-child) {
+    margin-bottom: 0;
+  }
+
   &[show-comma="true"] {
-    > *:not(:last-child) {
+    >*:not(:last-child) {
       margin-right: 8px;
 
       &::after {
@@ -11,4 +15,15 @@
       }
     }
   }
+}
+
+.content-meta-authors {
+  margin-top: 0;
+  font-style: italic;
+  text-decoration: underline;
+  color: #aeaeae;
+}
+
+.content-meta-authors * {
+  color: inherit;
 }

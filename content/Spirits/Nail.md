@@ -1,3 +1,9 @@
+---
+authors:
+  - '"LYRIC"'
+  - '"TERMITE"'
+---
+
 *Sketch to be added.*
 
 Nail is a spirit of some kind, signified by purple spores. Whatever kind he may be is largely unknown, as he does not seem to fit into the previous three categories. That said, some of his aspects might make you assume he's a [[Spirits/Wraiths/index|Wraith]], although he's missing the 'hatred and malice' motivation.

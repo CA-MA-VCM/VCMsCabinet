@@ -1,6 +1,10 @@
 ---
 tags:
   - Alignment/Forest
+authors:
+  - '"LYRIC"'
+  - '"TERMITE"'
+  - '"CARDIAC"'
 ---
 
 ![[BushmanBasketballSighting.png|500]]

@@ -42,10 +42,26 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      let authorsArray : JSX.Element[] = [];
+      if (fileData.frontmatter?.authors) {
+        let authors = fileData.frontmatter.authors;
+        for (let author in authors) {
+          authorsArray.push(<span>{authors[author]}</span>)
+        }
+      }
+
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
+        <div>
+          <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+            {segments}
+          </p>
+
+          {fileData.frontmatter?.authors && (
+            <p className={"content-meta-authors"}>
+              Authors: <span show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>{authorsArray}</span>
+            </p>
+          )}
+        </div>
       )
     } else {
       return null

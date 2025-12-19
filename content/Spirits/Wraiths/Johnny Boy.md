@@ -1,3 +1,8 @@
+---
+authors:
+  - '"TERMITE"'
+---
+
 Johnny Boy is the first [[Spirits/Wraiths/index|Wraith]] we've ever become aware of. Despite wraiths usually taking about two to thirty years to form (from initially being [[Spirits/Ghosts/index|Ghosts]]), Johnny became a wraith immediately.
 
 # Behavior

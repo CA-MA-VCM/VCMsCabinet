@@ -3,6 +3,8 @@ aliases:
   - Poltergeists
   - Poltergeist
 title: Poltergeists
+authors:
+  - '"TERMITE"'
 ---
 Poltergeists are the second type of [[Spirits/index|Spirit]], indicated by a yellow glow, yellow spores, and loud radio static. Unlike [[Spirits/Ghosts/index|Ghosts]], these spirits can interact with the world, usually by throwing things around with telekinesis, but never directly with their own hands. These spirits are often incredibly confused, and affect the world by complete accident in most cases.
 

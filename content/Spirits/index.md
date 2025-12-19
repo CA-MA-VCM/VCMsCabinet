@@ -3,6 +3,8 @@ title: Spirits
 aliases:
   - Spirits
   - Spirit
+authors:
+  - '"PARIAH"'
 ---
 **Spirits**, or also called Ghosts after their most common type, are entities cast away from their original bodies upon death. Many reside in the surrounding Crystal Valley, unable to move onto the next life. 
 

@@ -1,5 +1,7 @@
 ---
 title: Locations
+authors:
+  - '"TERMITE"'
 ---
 ![[astridmap.png]]
 *'Get lost in Astrid!'*
