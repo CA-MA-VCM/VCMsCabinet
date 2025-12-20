@@ -5,7 +5,8 @@ aliases:
 authors:
   - '"TERMITE"'
 ---
-*Photo to be added.*
+![[amberman_cafeteria.png|500]]
+*"FENRIR"'s photo of the 'Amberman' at the cafeteria.*
 
 The Amberman, also known as "Woodsman" or "Hollow Man", is a large tree-like creature standing at about eighteen feet tall. It is hostile and ==extremely== dangerous, as it actively hunts campers for food.
 
