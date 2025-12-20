@@ -28,4 +28,4 @@ She's able to make flowers sprout from grass, and revive plucked flowers. If you
 
 # Background
 
-Not a whole lot is known on Petunia's background. She seems to have died of the cold in a bush during a game of hide & seek with her brother gone wrong. It has been four years since her death.
+She seems to have died of the cold in a bush during a game of hide & seek with her brother gone wrong. It has been four years since her death.
