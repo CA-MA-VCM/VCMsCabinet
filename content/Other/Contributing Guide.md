@@ -1,5 +1,5 @@
 > [!important] Out Of Character
-> This is an out of character article. Nothing in here is available ICly.
+> This is an out of character article. Nothing on this page is available ICly.
 
 This wiki relies on our members' contributions. When you contribute, make sure all knowledge you write down is obtained ICly. You are free to ask other ARC members within the Discord for help, even if any info they share with you isn't something your character has experienced, or heard, first hand. It will simply be assumed that your characters collaborated on the document. Similarly, any photos used need to be IC photos. This does also mean [[Spirits/index|spirit]] articles cannot have photos, as they cannot be photographed.
 

@@ -6,7 +6,7 @@ title: The ARC File Cabinet
 *'Keep your eyes open. Not everything wants to be found.'*
 
 > [!important] Out Of Character
-> This is an out of character article. Nothing in here is available ICly.
+> This is an out of character article. Nothing on this page is available ICly.
 
 Welcome to the ARC wiki! This is part of a new effort to improve our documentation, and make it easier for newer members to participate. This wiki is still a work in progress, but is intended to hold all of our information and make it easily available. If you'd like to [[Contributing Guide|contribute, see here.]]
 
