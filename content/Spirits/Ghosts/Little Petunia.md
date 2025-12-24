@@ -5,8 +5,12 @@ aliases:
 authors:
   - '"TERMITE"'
 ---
-
 *Sketch to be added.*
+
+> [!important] IMPORTANT
+> Petunia is only a child. I cannot stress this enough, she is ==six years old.== Involving her in any form of research or ARC matters is strictly off-limits unless it concerns her safety directly. If you break this rule, I will PERSONALLY SCOLD YOU MYSELF and you will no longer be trusted to handle spirits properly.
+> 
+> — TERMITE, Spirit Specialist.
 
 Little Petunia, nicknamed Tuni, is the [[Spirits/Ghosts/index|Ghost]] of a small child. She died at the age of six, and acts about how you'd expect.
 
