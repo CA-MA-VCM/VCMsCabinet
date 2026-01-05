@@ -37,8 +37,6 @@ In terms of behaviour, Freyr acts similarly to a child. It's common for those, w
 
 ### Anomalous Capabilities
 
-**Hallucinations**
-
 Amongst the Branchwalkers, Freyr possesses the unique ability to generate and control hallucinations to those in possession of a Blossom. Hallucinations have been commonly reported to come in the form as:
 
 - Hearing voices of loved ones. 
