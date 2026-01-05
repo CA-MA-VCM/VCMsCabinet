@@ -48,6 +48,6 @@ Visions of the future have included:
 - Early sightings of Pyre, weeks before his appearance during the Spore-nights. 
 - Visions of Sackhead, equally weeks before his appearance in the Ignition Front's mines.
 
-However, alongside these violent visions, one may begin to witness sightings of The Crooked Shaman in both conscious and unconscious states. 
+However, alongside these violent visions, one may begin to witness sightings of [[The Crooked Shaman]] in both conscious and unconscious states. Temporary possession develops to a point where limbs can be momentarily controlled against one's will.
 
 
