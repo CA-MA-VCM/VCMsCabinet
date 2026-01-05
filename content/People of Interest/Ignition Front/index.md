@@ -5,7 +5,7 @@ aliases:
   - The Front
 authors:
   - '"TERMITE"'
-title: The Ignition Front
+title: Ignition Front
 tags:
   - Alignment/IgnitionFront
 ---
