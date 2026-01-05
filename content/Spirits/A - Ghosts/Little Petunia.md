@@ -12,7 +12,7 @@ authors:
 > 
 > — TERMITE, Spirit Specialist.
 
-Little Petunia, nicknamed Tuni, is the [[Spirits/Ghosts/index|Ghost]] of a small child. She died at the age of six, and acts about how you'd expect.
+Little Petunia, nicknamed Tuni, is the [[Spirits/A - Ghosts/index|Ghost]] of a small child. She died at the age of six, and acts about how you'd expect.
 
 # Behavior
 

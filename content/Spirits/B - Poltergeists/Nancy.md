@@ -4,11 +4,11 @@ authors:
 ---
 *Sketch to be added.*
 
-Nancy is a [[Spirits/Poltergeists/index|Poltergeist]] that seems to focus on furthering the decay of other spirits.
+Nancy is a [[Spirits/B - Poltergeists/index|Poltergeist]] that seems to focus on furthering the decay of other spirits.
 
 # Behavior
 
-Nancy is very chaotic and angry. Defined by chaos. She feeds off getting spirits to turn into [[Spirits/Wraiths/index|Wraiths]] and [[Spirits/Poltergeists/index|Poltergeists]] and entering other spirits' heads. Can make spirits feel small and scared. She wants to take, and feeds on instability and vulnerability. 
+Nancy is very chaotic and angry. Defined by chaos. She feeds off getting spirits to turn into [[Spirits/C - Wraiths/index|Wraiths]] and [[Spirits/B - Poltergeists/index|Poltergeists]] and entering other spirits' heads. Can make spirits feel small and scared. She wants to take, and feeds on instability and vulnerability. 
 
 # Appearance
 

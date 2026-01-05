@@ -14,10 +14,10 @@ The Crooked Shaman is a mysterious, unknown entity that presents itself after co
 Those afflicted by The Shaman are:
 
 - Calliope Chambers
-- An Unnamed Hellbilly. (FORMERLY)
-- Sackhead.
+- An Unnamed [[Hellbillies|Hellbilly]]. (FORMERLY)
+- [[Sackhead]].
 
-However, despite sharing the affliction, no visions of the Shaman are the same. For instance, a Hellbilly saw The Crooked Shaman as a man in red clothes, a black rubber apron who donned a sack over his head. Calliope, on the other hand, frequently views The Shaman as a humanoid figure made out of pure, amalgamated flesh. 
+However, despite sharing the affliction, no visions of the Shaman are the same. For instance, a [[Hellbillies|Hellbilly]] saw The Crooked Shaman as a man in red clothes, a black rubber apron who donned a sack over his head. Calliope, on the other hand, frequently views The Shaman as a humanoid figure made out of pure, amalgamated flesh. 
 
 ### Dangers
 Along the psychological danger that comes with frequent visions, The Crooked Shaman becomes significantly more dangerous once the afflicted has fallen asleep. It is here, in their dreams, that The Shaman can attack them. In the event that they are caught - or killed - in their dreams, the afflicted will undergo a seizure. 
