@@ -6,7 +6,7 @@
 > **LOCATION:** On the campgrounds outside the Cafeteria and beside cabins.
 
 **ANOMALIES, ENTITIES, & MISC.**
-> Ghost dubbed, 'Devil Dog', by Coyote during the encounter.
+> Ghost dubbed, 'Devil Dog', by FREKI during the encounter.
 
 **CONTEXT**
 > "I think this ghost was the entity various others had encountered a couple weeks back, the descriptions that were given to me seem to match it. Spores were moderate, just our luck too, 'cause we were hosting a recruitment with a couple of new people. They got to see firsthand what we do. 
