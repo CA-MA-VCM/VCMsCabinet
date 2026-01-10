@@ -2,7 +2,7 @@
 - *TIME:* N/A. Field log spans two days.
 - *LOCATION:* Church, Library, Group A (Cafeteria)
 - *WEATHER:* N/A.
-- *WITNESSES:* OWL, CARDIAC, Rupert, Radly, Theodore (Ghost)
+- *WITNESSES:* OWL, ELPIS, Rupert, Radly, Theodore (Ghost)
 
 ## Phenomena
 - Poltergeist sighting
@@ -23,7 +23,7 @@
 > - This spirit was described as having short hair, glasses, a striped shirt, and looking kind of rich. This description fits that of a Girn, minus the short hair.
 > - He was apparently "grabbed." This initially led me to assume a wraith was behind this, but this proved to be untrue.
 
-> From here, I joined OWL and CARDIAC at the library where we ran into Miss Teen America, a poltergeist. We interviewed her, both about the disappearance of Rupert and herself.
+> From here, I joined OWL and ELPIS at the library where we ran into Miss Teen America, a poltergeist. We interviewed her, both about the disappearance of Rupert and herself.
 > - She does not know much about other spirits.
 > - Claimed to not know anything about the disappearance of Rupert.
 > - Her shapeshifting isn't actually shapeshifting. It's a form of illusion, by bending the light. Bright lights (such as sunlight) cause it to not function.

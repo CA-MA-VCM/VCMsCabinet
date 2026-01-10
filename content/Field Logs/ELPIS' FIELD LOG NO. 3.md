@@ -1,4 +1,4 @@
-# CARDIAC - 1987 - LOGBOOK:
+# ELPIS - 1987 - LOGBOOK:
 
 ***Setting***
 

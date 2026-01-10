@@ -16,7 +16,7 @@
 > Irrelevant. See theory revision below.
 
 ## Bushman's Appearance
-> COYOTE, CARDIAC and I heard rumors of a man in the bushes within camp. We asked around, quickly running into maintenance staff member 'Robert Polacknowski', who was standing on the porch of the infirmary. He claimed to have heard a voice from the bush to the right of the building, saying 'The war. Never again.'
+> COYOTE, ELPIS and I heard rumors of a man in the bushes within camp. We asked around, quickly running into maintenance staff member 'Robert Polacknowski', who was standing on the porch of the infirmary. He claimed to have heard a voice from the bush to the right of the building, saying 'The war. Never again.'
 >  
 > We first thought this could be the ghost 'Devil Dog', but after looking around behind the infirmary for less than a minute, we ran into Bushman. He ordered us to stop looking as he clutched his spear, so we promptly fucked off. Why he was *in* camp, we don't know.
 

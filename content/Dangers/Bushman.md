@@ -4,7 +4,7 @@ tags:
 authors:
   - '"LYRIC"'
   - '"TERMITE"'
-  - '"CARDIAC"'
+  - '"ELPIS"'
 ---
 
 ![[BushmanBasketballSighting.png|500]]
