@@ -4,6 +4,9 @@ aliases:
 authors:
   - '"TERMITE"'
 ---
+> [!danger] CLASSIFIED
+> All information documented below is strictly **classified**. Releasing this information may be grounds for warnings, demotions or exile.
+
 *Sketch to be added.*
 
 Harrison, also known as 'Devil Dog,' is the [[Spirits/B - Poltergeists/index|Poltergeist]] of a ghost investigator. He has about two decades of experience under his belt, and judging by his WW1 trench knife, died somewhere in the first half of the century.
