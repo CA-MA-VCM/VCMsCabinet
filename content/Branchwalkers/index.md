@@ -12,7 +12,6 @@ authors:
 > "The Forest is loud, and full, and I am so very afraid." - Calliope Chambers, Journal Entry No.19.
 
 ![[branchwalker.png]]
-
 *A drawn rendition of Freyr, a Branchwalker.*
 
 **Branchwalkers** are tree-like entities who work alongside the [[Bushman]] in protecting the forest. Once human, these beings now roam the forest under little volition of their own, instead following the commands of the Bushman and the Forest Spirit. They are currently the strongest known entity produced by The Forest, and as a result come in few numbers.
