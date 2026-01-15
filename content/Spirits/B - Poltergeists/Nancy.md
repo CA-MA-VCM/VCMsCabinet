@@ -16,13 +16,11 @@ A big eye on the face, covered in orange butterflies. Her head seems to be pure 
 
 # Anomalies
 
+Holds all the common ones found in [[Spirits/B - Poltergeists/index|Poltergeists]] and [[Spirits/A - Ghosts/index|Ghosts]].
+
 ## Spirit Mind Entering
 
 Nancy has been observed entering the minds of other spirits, and uses this to accelerate their decay by making them angry and secluded. This could potentially work on humans during spore nights, but has not been confirmed to do so.
-
-## Telekinesis
-
-Standard telekinesis you'd find in a poltergeist.
 
 # Background
 

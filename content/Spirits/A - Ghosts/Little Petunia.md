@@ -21,11 +21,11 @@ Although Petunia is largely a normal child, although she is completely aware of 
 # Appearance
 
 Petunia is a small child with a pink flower mask covering her face. She wears a pink skirt, and her arms & legs are covered in vines. There's similar foliage strewn about her brown hair.
+
 # Anomalies
 
-## Flight
+Petunia has proven to hold all of the common capabilities of [[Spirits/A - Ghosts/index|Ghosts]], and one more.
 
-Petunia has proven to be able to fly up.
 ## Flower revival/growth
 
 She's able to make flowers sprout from grass, and revive plucked flowers. If you hold out a flower to her, you might find it curling around your hand.

@@ -15,17 +15,19 @@ The Amberman, also known as "Woodsman" or "Hollow Man", is a large tree-like cre
 It often announces itself with a loud, helicopter-like roar. After which it begins to hunt people around camp. In almost all cases, it attempts to grab someone rather than slashing at them, and it will often try to stick its arm through a window if it thinks a person's inside. Below's a list of 'methods.'
 
 - Biting
-- Throwing the person at a wall, or the floor
+- Throwing the person at a solid surface
 - Slamming two people against each other
 - Improvised weapons (such as lantern posts)
 
-It is also seems to absolutely love candy, often even prioritizing it *above* people. This means sweet smells can lure it out, so beware.
+It seems to absolutely love candy, often even prioritizing it *above* people. This means sweet smells can lure it out, so beware as it has a keen sense of smell. It also seems to hate flashing lights, and under no circumstance should you use flash photography, as it would jump for you immediately.
 
-It ==hates== flashing lights. Under no circumstance should you use flash photography.
+Despite its animal-like nature, it's proven to be smarter than you might think at first glance, as its utilized improvised weapons and been observed using candy as 'seasoning.' Because of this, you should actively discourage any plans that rely on a severe lapse of judgement on its end, such as getting it to run into the tar pit or off a cliff.
 
 # Physique
 
-The Amberman appears to be incredibly sturdy, even shrugging off bullets. Despite being made of wood, it's inner "tar" douses flames, making this a non-option.
+While in the past it seemed to shrug off bullets, it now appears to be in a far more weakened state after a [[Hellbillies|Hellbilly]] broke its leg, stunning it and giving campers an opportunity to damage it as much as they could. This does not mean you should fight it head on, however, just that it might not be as sturdy as previously observed.
+
+Its inner "tar" most likely still holds flame dousing capabilities. Do not set it on fire; it will not work.
 
 # Anomalies
 
@@ -48,9 +50,9 @@ Once, and only once, has it been observed shaping its hand into a sharp spear at
 
 # Counters
 
-- Stay inside, and away from the windows. A closet works best.
+- Stay inside, and away from the windows. A walk in closet or storage room works best.
 - If outside, hide. Outrunning it is a major gamble.
 - If you can't hide, throw candy. It might go for it instead of you.
-- Run for the [[Birchwoods]]. It is theorized to be somewhat of a safe place from the Amberman, as it seems to refuse to step foot inside of it.
+- Run for the [[Birchwoods]]. It is theorized to be somewhat of a safe place from the Amberman, as it seems to refuse to step foot inside of it due to the presence of [[Branchwalkers/index|Branchwalkers]].
 - Dive into deep water. It's unknown whether it can't enter water, or if it simply believes other campers outside of water are easier to hunt.
 - If none of the above work or are available, dodge as best you can and use the size difference to your advantage. Anything where it'd have a harder time navigating is good.
