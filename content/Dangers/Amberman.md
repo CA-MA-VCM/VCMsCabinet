@@ -8,45 +8,51 @@ authors:
 ![[amberman_cafeteria.png|500]]
 *"FENRIR"'s photo of the 'Amberman' at the cafeteria.*
 
-The Amberman, also known as "Woodsman" or "Hollow Man", is a large tree-like creature standing at about eighteen feet tall. It is hostile and ==extremely== dangerous, as it actively hunts campers for food.
+The Amberman, also known as "Woodsman" or "Hollow Man", was a large tree-like creature standing at about eighteen feet tall. It was hostile and ==extremely== dangerous, as it actively hunted campers for food.
 
+# Status
+
+- ACTIVE: No; Dead.
+- HOSTILITY: N/A
+- FREQUENCE: None
+- DANGER: None
 # Behavior
 
-It often announces itself with a loud, helicopter-like roar. After which it begins to hunt people around camp. In almost all cases, it attempts to grab someone rather than slashing at them, and it will often try to stick its arm through a window if it thinks a person's inside. Below's a list of 'methods.'
+It often announced itself with a loud, helicopter-like roar. After which it began to hunt people around camp. In almost all cases, it attempted to grab someone rather than slashing at them, and it would often try to stick its arm through a window if it thought a person was inside. Below's a list of 'methods.'
 
 - Biting
 - Throwing the person at a solid surface
 - Slamming two people against each other
 - Improvised weapons (such as lantern posts)
 
-It seems to absolutely love candy, often even prioritizing it *above* people. This means sweet smells can lure it out, so beware as it has a keen sense of smell. It also seems to hate flashing lights, and under no circumstance should you use flash photography, as it would jump for you immediately.
+It seemed to absolutely love candy, often even prioritizing it *above* people. This meant sweet smells could lure it out, as it seemed to have a keen sense of smell. It also seemed to hate flashing lights, and under no circumstance was flash photography to be used, as it would jump for you immediately.
 
-Despite its animal-like nature, it's proven to be smarter than you might think at first glance, as its utilized improvised weapons and been observed using candy as 'seasoning.' Because of this, you should actively discourage any plans that rely on a severe lapse of judgement on its end, such as getting it to run into the tar pit or off a cliff.
+Despite its animal-like nature, it's proven to be smarter than you might think at first glance, as it has utilized improvised weapons and been observed using candy as 'seasoning.' Because of this, any plans relying on a severe lapse of judgement were to be actively discouraged, such as getting it to run into the tar pit or off a cliff.
 
 # Physique
 
-While in the past it seemed to shrug off bullets, it now appears to be in a far more weakened state after a [[Hellbillies|Hellbilly]] broke its leg, stunning it and giving campers an opportunity to damage it as much as they could. This does not mean you should fight it head on, however, just that it might not be as sturdy as previously observed.
+While at first it seemed to shrug off bullets, it later appeared to be in a far more weakened state after a [[Hellbillies|Hellbilly]] broke its leg, stunning it and giving campers an opportunity to damage it as much as they could. This did not mean you could fight it head on, however, just that it might not be as sturdy as previously observed.
 
-Its inner "tar" most likely still holds flame dousing capabilities. Do not set it on fire; it will not work.
+Its inner "tar" held flame dousing capabilities. Setting it on fire did not work..
 
 # Anomalies
 
-The Amberman's main feat is its sheer size and strength. Despite that, it still holds two anomalies to its name.
+The Amberman's main feat was its sheer size and strength. Despite that, it still held two anomalies to its name.
 
 ## Regeneration
 
-It boasts unnatural regenerative capabilities, fuelled by its eating. This has been seen healing wounds in seconds, and may be part of why it eats so much.
+It boasted unnatural regenerative capabilities, fuelled by its eating. This has been seen healing wounds in seconds, and may be part of why it ate so much.
 
 ## Fog
 
-Its appearances are often accompanied by fog. If you're out somewhere and fog rolls in, that might be time to get into a building.
+Its appearances were often accompanied by fog. If you were out somewhere and fog rolled in, that might've been a good time to get into a building.
 
 > [!danger] WARNING
 > A lack of fog does *not* mean it has left. Do not let this lure you into a false sense of safety.
 
 ## Minor Shapeshifting
 
-Once, and only once, has it been observed shaping its hand into a sharp spear at will before stabbing a camper.
+Once, and only once, has it been observed shaping its hand into a sharp spear at will before stabbing a camper. According to reports, it was also able to shapeshift into a tree in order to hide.
 
 # Counters
 
