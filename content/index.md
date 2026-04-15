@@ -2,9 +2,11 @@
 title: The ARC File Cabinet
 ---
 
-> [!info] Goodnight, Camp Astrid.
+> [!info] ~~Goodnight, Camp Astrid.~~ Good morning, Camp Astrid.
 >
-> This wiki was made for the roblox roleplaying game "Camp Astrid '87", which is now discontinued. Everything you see here has been left untouched since the game's shutdown, and was a collection of the Anomaly Research Club's documentation. Enjoy taking a trip down memory lane.
+> ~~This wiki was made for the roblox roleplaying game "Camp Astrid '87", which is now discontinued. Everything you see here has been left untouched since the game's shutdown, and was a collection of the Anomaly Research Club's documentation. Enjoy taking a trip down memory lane.~~
+>
+> Long live Camp Astrid. Long live Months After. This site is to be repurposed for the VCM.
 
 > [!danger] Woah!
 > 
